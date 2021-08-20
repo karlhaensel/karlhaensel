@@ -1,7 +1,9 @@
 - 👋 Hi, I’m Karl Hänsel, a classical musician from Northern Germany.
 - 👀 I’m interested in music notation, maths, programming and science.
+<!---
 - 🌱 I’m currently improving my maths and programming skills.
 - 💞️ I’m looking to collaborate on music notation with Lilypond, open-source projects in Python or data science with R.
+--->
 - 📫 You can reach me via mail to Karl-Haensel@gmx.de.
 
 <!---

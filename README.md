@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Karl Hänsel, a classical musician and meteorology student from Northern Germany.
+- 👋 Hi, I’m Karl Hänsel, a classical musician (choirmaster and oratorio tenor) and meteorology student @ Uni Hamburg.
 - 👀 I’m interested in music notation, science, maths and programming.
-- 🌱 I’m currently improving my programming skills with Python and R.
+- 🌱 I’m currently improving my programming skills (Python and R).
 - 💞️ I’m looking to collaborate on music notation with Lilypond.
 - 📫 You can reach me via mail to Karl-Haensel@gmx.de.
 

@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Karl Hänsel, a classical musician (choirmaster and oratorio tenor) from Lübeck / Hamburg (Germany).
-- 👀 I’m interested in music notation, science, maths and programming.
-- 🌱 I’m currently improving my programming skills (Python and R).
-- 💞️ I’m looking to collaborate on music notation with Lilypond.
+- 👋 Hi, I am Karl Hänsel, a classical musician from Lübeck / Hamburg (Northern Germany).
+- 💞️ I currently work primarily as a choir director and oratorio tenor, but I also occasionally arrange and compose choral music.
+- 👀 My interests are music (notation), science, maths and programming.
+- 🌱 I am currently improving my programming skills (Python and R).
 - 📫 You can reach me via mail to Karl-Haensel@gmx.de.
 
 <!---
